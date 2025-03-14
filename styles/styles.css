@@ -18,7 +18,7 @@ main img {
     box-shadow: 0 0 30px gray;
     }
 p {
-    padding: 0;
+    padding: 0px;
 }
 main {
     width: 840px;
